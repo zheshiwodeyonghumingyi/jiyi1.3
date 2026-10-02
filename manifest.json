@@ -1,0 +1,20 @@
+{
+  "name": "计亿",
+  "short_name": "计亿",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f9f4",
+  "theme_color": "#2c9c69",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/2c9c69/ffffff?text=%E8%AE%A1%E4%BA%BF",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/2c9c69/ffffff?text=%E8%AE%A1%E4%BA%BF",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
